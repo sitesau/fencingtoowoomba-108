@@ -1,0 +1,22 @@
+{
+  "wheel_id": 521,
+  "structure": "umbrella",
+  "slug": "fencingtoowoomba-108",
+  "project": "fencing-contractors-toowoomba-beginner-guide-77ff48f425895c3624",
+  "parent_t1_ref": "fencingtoowoomba-153",
+  "node_role": "feeder",
+  "money_target": "fencingtoowoomba.net.au",
+  "primary_kw": "fencing contractors toowoomba beginner guide",
+  "intended_url": "https://sites-e470-2.web.app/fencing-contractors-toowoomba-beginner-guide-77ff48f425895c3624/",
+  "tier": "T2",
+  "writeback_nonce": "e4be38a7ab025dff",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/fencingtoowoomba-153/",
+      "anchor": "https://sitesau.github.io/fencingtoowoomba-153/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
